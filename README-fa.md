@@ -9,7 +9,7 @@ my_flask_api/
 ├── models.py # مدل‌های پایگاه داده
 ├── resources.py # مسیرهای منابع API
 ├── database.db # فایل پایگاه داده SQLite
-└── README-eng.md # مستندات پروژه
+└── README-fa.md # مستندات پروژه
 
 ```
 
