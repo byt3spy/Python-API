@@ -80,7 +80,7 @@ API شامل مدیریت خطا برای مشکلات رایج است:
 #### 500 Internal Server Error: زمانی بازگردانده می‌شود که یک خطای غیرمنتظره رخ دهد.
 
 
-
+<img src='https://keyper.dbsentry.com/post/rest-api-using-python-flask/featured.png'>
 # مجوز
 #### این پروژه تحت مجوز MIT منتشر شده است.
 #### این مثال یک راه‌اندازی جامع برای یک API RESTful با استفاده از Flask ارائه می‌دهد.
