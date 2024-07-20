@@ -78,7 +78,7 @@ The API includes error handling for common issues:
 #### 400 Bad Request: Returned when the request is invalid.
 #### 500 Internal Server Error: Returned when an unexpected error occurs.
 
-
+<img src='https://keyper.dbsentry.com/post/rest-api-using-python-flask/featured.png'>
 
 # License
 #### This project is licensed under the MIT License.
