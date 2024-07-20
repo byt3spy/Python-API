@@ -20,7 +20,7 @@ This project showcases the creation of a RESTful API using Flask, a lightweight 
 </p>
 
 
-<img src='https://keyper.dbsentry.com/post/rest-api-using-python-flask/featured.png'>
+
 
 ### Key Features:
 
