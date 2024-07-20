@@ -78,6 +78,7 @@ API включает обработку ошибок для распростра
 #### 400 Bad Request: Возвращается, когда запрос некорректен.
 #### 500 Internal Server Error: Возвращается, когда происходит неожиданная ошибка.
 
+<img src='https://keyper.dbsentry.com/post/rest-api-using-python-flask/featured.png'>
 
 # Лицензия
 #### Этот проект распространяется под лицензией MIT.
