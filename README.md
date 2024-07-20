@@ -3,6 +3,22 @@
 
 This project showcases the creation of a RESTful API using Flask, a lightweight and versatile Python web framework. The API is designed to handle various HTTP requests (GET, POST, PUT, DELETE) and demonstrate fundamental principles of API development, including routing, request handling, and response formatting.
 
+
+
+<p align="center">
+ <a href="./README-eng.md">
+ English
+ </a>
+ /
+ <a href="./README-fa.md">
+ فارسی
+ </a>
+   /
+  <a href="./README-ru.md">
+ Русский
+ </a>
+</p>
+
 ### Key Features:
 
 #### Routing:
